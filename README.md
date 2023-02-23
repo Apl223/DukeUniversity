@@ -17,4 +17,4 @@ Learn to code in Java and improve your programming and problem-solving skills. Y
 
 # Important Note
 
-Some code could be run in a custom Bluej Development Environment made by Duke's University especially for this course. You can get the IDE from the University website here.
+Some code could be run in a custom Bluej Development Environment made by Duke's University especially for this course.
